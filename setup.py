@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="astrolib",
+    name="astro-void-finder",
     version="0.1.0",
     packages=find_packages(),
     install_requires=[
@@ -15,12 +15,12 @@ setup(
         "scikit-learn>=1.0.0",
         "psutil>=5.8.0"
     ],
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="JFBookwood",
+    author_email="jesse.buchholz@jgmm.de",
     description="High-performance astrophysics library for void finding, neutrino physics, and N-body simulations",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/JFBookwood/astrolib",
+    url="https://github.com/JFBookwood/astro-void-finder",
     classifiers=[
         "Development Status :: 4 - Beta",
         "Intended Audience :: Science/Research",
