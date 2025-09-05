@@ -1,7 +1,7 @@
-# AstroLib - Advanced Astrophysics Library
+# AstroLib/AstroVoidFinder - Advanced Astrophysics Library
 
 ## Overview
-AstroLib is a high-performance Python library for astrophysical computations, focusing on void finding, neutrino physics, and N-body simulations. It's designed to work efficiently even on low-performance hardware through innovative algorithms and resource management.
+AstroLib/AstroVoidFinder is a high-performance Python library for astrophysical computations, focusing on void finding, neutrino physics, and N-body simulations. It's designed to work efficiently even on low-performance hardware through innovative algorithms and resource management.
 
 ## Features
 
